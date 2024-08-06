@@ -1,0 +1,2 @@
+ This repository contains tasks related to my data science internship.This second task focuses on performing data cleaning and exploratory data analysis (EDA) on a dataset of choice, specifically the Titanic dataset from Kaggle. The analysis aims to explore the relationships between variables and identify patterns and trends in the data. The Titanic dataset is provided in a compressed format (titanic.zip), which needs to be extracted before proceeding with the data cleaning process.
+
